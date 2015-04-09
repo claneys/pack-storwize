@@ -1,0 +1,24 @@
+{
+	"name": "storwize",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/claneys/pack-storwize",
+	"author": "Romain Forlot",
+	"description": "Storwize checks",
+	"contributors": [
+	  {
+		"name": "Forlot Romain",
+		"email": "rforlot@yahoo.com"
+	  }
+	],
+	"repository": "https://github.com/svc/pack-storwize",
+	"keywords": [
+	  "pack",
+	  "storwize",
+	  "ibm"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
